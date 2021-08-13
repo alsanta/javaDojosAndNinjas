@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+.main{
+    margin: 0 auto;
+    width: 70%;
+    background-color: white;
+    min-height: 90vh;
+}
+
+.subBtn{
+    background-color: teal;
+    padding: 2px 4px;
+    width: 100px;
+}
